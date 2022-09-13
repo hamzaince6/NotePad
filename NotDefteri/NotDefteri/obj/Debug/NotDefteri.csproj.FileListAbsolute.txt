@@ -1,0 +1,10 @@
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\bin\Debug\NotDefteri.exe.config
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\bin\Debug\NotDefteri.exe
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\bin\Debug\NotDefteri.pdb
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.Form1.resources
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.Properties.Resources.resources
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.exe
+C:\Users\Hamza\source\repos\NotDefteri\NotDefteri\obj\Debug\NotDefteri.pdb
