@@ -1,2 +1,2 @@
 # NotePad
-Not Defteri C#
+C# simple notepad app
